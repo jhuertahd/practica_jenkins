@@ -1,2 +1,2 @@
 print("Hola mundo desde python")
-print("La conexión con github ha sido exitosa!")
+print("La conexión con github ha sido exitosa !")
